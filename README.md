@@ -1,22 +1,21 @@
-````md
 # 💬 Chat App
 
 A simple real-time chat application that enables users to send and receive messages instantly.
 
 ## 🚀 Features
 
-- User Authentication (JWT)
-- Real-Time Messaging using Socket.IO
-- One-to-One Chat
-- Responsive UI
-- Secure Password Hashing
-- MongoDB Database Integration
+* User Authentication (JWT)
+* Real-Time Messaging using Socket.IO
+* One-to-One Chat
+* Responsive UI
+* Secure Password Hashing
+* MongoDB Database Integration
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Tailwind CSS, Axios  
-**Backend:** Node.js, Express.js, Socket.IO  
-**Database:** MongoDB, Mongoose  
+**Frontend:** React.js, Tailwind CSS, Axios
+**Backend:** Node.js, Express.js, Socket.IO
+**Database:** MongoDB, Mongoose
 **Authentication:** JWT, Bcrypt
 
 ## ⚙️ Installation
@@ -34,7 +33,7 @@ npm run dev
 cd client
 npm install
 npm start
-````
+```
 
 ## 🔐 Environment Variables
 
@@ -46,18 +45,8 @@ JWT_SECRET=your_secret_key
 
 ## 🎥 Demo Video
 
-[Watch Demo]([./chat_app_client/public/chat_app.mp4](https://drive.google.com/file/d/1HOykOYlcONUdHsqEDVLjg1qrWc3k-KYR/view?usp=sharing))
+[Watch Demo](https://drive.google.com/file/d/1HOykOYlcONUdHsqEDVLjg1qrWc3k-KYR/view?usp=sharing)
 
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-```
-
-For GitHub projects, this concise version is usually preferred by recruiters because they can quickly see:
-- What the project does
-- Features
-- Tech stack
-- Setup instructions
-- Demo link
-```
