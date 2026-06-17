@@ -46,7 +46,7 @@ JWT_SECRET=your_secret_key
 
 ## 🎥 Demo Video
 
-![Watch Demo]([./chat_app_client/public/chat_app.mp4](https://drive.google.com/file/d/1HOykOYlcONUdHsqEDVLjg1qrWc3k-KYR/view?usp=sharing))
+[Watch Demo]([./chat_app_client/public/chat_app.mp4](https://drive.google.com/file/d/1HOykOYlcONUdHsqEDVLjg1qrWc3k-KYR/view?usp=sharing))
 
 ## 📄 License
 
